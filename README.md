@@ -6,6 +6,7 @@ Go and get yourself an awesome ant-sized printer: https://github.com/Alexander-T
 
 ~~Currently awaiting the first prototype by PCBWay :)~~
 ~~Received, belt path needs to be widened but all else is OK. New ETA: When I receive and test new part :)~~
+
 Revised version received and test fitted. Minor tweaks made based on use.
 Files have now been uploaded. **Highly advised** that you print in FDM first and consider how SLM tolerances would change the fit you get.
 
